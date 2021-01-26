@@ -1,3 +1,3 @@
 Markdown
 
-Este es mi primer repo creado en holberton school.
+This is my first repo created at holberton school.
