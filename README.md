@@ -13,7 +13,7 @@ projects contained follows:
 
 ## Author :black_nib:
 
-* __Brennan D Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
+* __Felipe Vargas__
 
 - Social media.. 
 
