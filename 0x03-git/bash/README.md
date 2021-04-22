@@ -1,6 +1,8 @@
+<img src='https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png' alt='Banner' width=100%>
+
 # bash
 
-- Here I learned how to upload files from my machine to my repository on github.
+- Here I learned how to upload files from my machine to my github repository with git.
 
 ## Social media.. 
 
